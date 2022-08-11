@@ -1,0 +1,21 @@
+This will also include the link where you can learn the topics 
+
+1) What are IP & TCP?
+https://www.cloudflare.com/en-gb/learning/ddos/glossary/tcp-ip/
+
+2) What is HTTP ? 
+https://www.cloudflare.com/en-gb/learning/ddos/glossary/hypertext-transfer-protocol-http/
+
+
+3) What is HTTPS ?
+https://www.cloudflare.com/en-gb/learning/ssl/what-is-https/
+
+4) What is V8? 
+https://v8.dev/
+
+5) how node js work behind the scene ?
+https://www.geeksforgeeks.org/how-node-js-works-behind-the-scene/#:~:text=Event%2Dloop%20is%20what%20allows,known%20as%20Top%2DLevel%20code.
+
+2) 11 authentication mistak that you need to fix and know 
+https://blog.openreplay.com/11-authentication-mistakes-and-how-to-fix-them
+
