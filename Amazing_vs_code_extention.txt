@@ -5,3 +5,5 @@ For React Js -->
     4) Import Cost -> Display The Size of Imported const -> ext install wix.vscode-import-cost
     5) Prettier - Code formatter ->  ext install esbenp.prettier-vscode
     6) Turbo Console Log -> ext install ChakrounAnas.turbo-console-log
+    7) peacock -> Color Everywindow https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock
+    8) VSCode Icons
